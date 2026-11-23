@@ -1,6 +1,6 @@
 
 ## Disclaimer
-This project is startin development.
+This project is starting development.
 
 # SpendWise 
 SpendWise is a grocery expense analysis project developed with Python and Machine Learning.
