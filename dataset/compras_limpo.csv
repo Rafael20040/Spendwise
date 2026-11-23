@@ -1,0 +1,54 @@
+talão,categoria_original,produto,quantidade,unidade,preco_unitario,total,desconto,categoria_spendwise,valor_pago
+1,Mercearia + Pet Food,Feijão PD 420/260g,1.0,un,0.84,0.84,0.0,Mercearia,0.84
+1,Mercearia + Pet Food,Feijão E PD 420/260g,1.0,un,0.84,0.84,0.0,Mercearia,0.84
+1,Mercearia + Pet Food,Feijão P PD 420/260g,1.0,un,0.84,0.84,0.0,Mercearia,0.84
+1,Mercearia + Pet Food,Atum natural Hleme 72g,3.0,un,0.92,2.76,0.0,Mercearia,2.76
+1,Mercearia + Pet Food,Segredo Margão aves 50g,1.0,un,,2.99,0.0,Mercearia,2.99
+1,Mercearia + Pet Food,Pão de forma proteína Bimbo,1.0,un,,3.99,0.0,Mercearia,3.99
+1,Mercearia + Pet Food,Leite condensado magro PD 397g,1.0,un,,1.45,0.0,Mercearia,1.45
+1,Mercearia + Pet Food,Pastilhas Spearmint 27g,1.0,un,,1.29,0.0,Mercearia,1.29
+1,Talho,Porco costeletas do lombo,0.531,kg,5.69,3.02,0.0,Talho,3.02
+1,Talho,Peito de frango ATP PD,1.449,kg,6.49,9.4,0.0,Talho,9.4
+1,Talho,Peru hambúrguer PD 460g,1.0,un,,2.99,0.0,Talho,2.99
+1,Talho,Frango bife ATP PD,0.478,kg,6.99,3.34,0.0,Talho,3.34
+1,Talho,Peru preparado carne PD,1.0,un,,2.99,0.0,Talho,2.99
+1,Padaria/Pastelaria,Folhado misto com carne,1.0,un,,0.99,0.0,Padaria,0.99
+1,Frutas e Vegetais,Couve roxa,1.39,kg,1.59,2.21,0.0,Legumes,2.21
+1,Congelados,Olá Fizz limão 6x60ml,1.0,un,,4.99,0.0,Congelados,4.99
+1,Leite,Leite meio-gordo sem lactose 200ml,4.0,un,0.89,3.56,0.0,Queijos e lacticínios,3.56
+1,Produtos Lácteos,Iogurte Yopro Big Pot,1.0,un,,3.89,0.8,Queijos e lacticínios,3.09
+1,Queijos,Queijo Nostra light 2x200g,1.0,un,,1.39,0.0,Queijos e lacticínios,1.39
+1,Queijos,Queijo cottage Dairy,1.0,un,,2.39,0.0,Queijos e lacticínios,2.39
+1,Queijos,Queijo cottage Arla Protein,1.0,un,,1.49,0.0,Queijos e lacticínios,1.49
+1,Queijos,Queijo mozzarella ralado Mr Cheese 150g,1.0,un,,5.19,0.0,Queijos e lacticínios,5.19
+1,Detergentes e Limpeza,Saco do lixo PD 100L,1.0,un,,1.39,0.0,Outros,1.39
+1,Bazar,Frasco vidro Smukee 700ml,2.0,un,3.99,7.98,0.0,Outros,7.98
+2,Mercearia + Pet Food,Cogumelos LA PD 355/185g,1.0,un,,1.12,0.0,Mercearia,1.12
+2,Mercearia + Pet Food,Salsichas Nobre aves LT 8U,1.0,un,,1.99,0.6,Mercearia,1.3900000000000001
+2,Mercearia + Pet Food,Mostarda tradicional PD 200ml,1.0,un,,0.95,0.0,Mercearia,0.95
+2,Mercearia + Pet Food,Tomate P Doce PE 390g,1.0,un,,0.75,0.0,Mercearia,0.75
+2,Mercearia + Pet Food,Trident Spearmint 23g,1.0,un,,1.09,0.0,Mercearia,1.09
+2,Mercearia + Pet Food,Pão de forma proteína Bimbo,1.0,un,,3.99,0.0,Mercearia,3.99
+2,Mercearia + Pet Food,Alho em pó Margão 40g,1.0,un,,1.54,0.0,Mercearia,1.54
+2,Mercearia + Pet Food,Polpa Compal 3x210g,1.0,un,,1.99,0.0,Mercearia,1.99
+2,Mercearia + Pet Food,Sal iodado PD 1kg,1.0,un,,0.44,0.0,Mercearia,0.44
+2,Mercearia + Pet Food,Cacau em pó Magro Pantag,1.0,un,,2.79,0.0,Mercearia,2.79
+2,Mercearia + Pet Food,Atum natural Costa 77g,1.0,un,,0.92,0.0,Mercearia,0.92
+2,Mercearia + Pet Food,Tortilhas arroz sem sal PD 130g,1.0,un,,0.79,0.0,Mercearia,0.79
+2,Mercearia + Pet Food,Pringles can style 165g,1.0,un,,3.25,0.76,Mercearia,2.49
+2,Mercearia + Pet Food,Purê MA SAU 730g,1.0,un,,3.69,0.0,Mercearia,3.69
+2,Peixaria,Solha posta 800g,1.0,un,,9.99,2.0,Peixaria,7.99
+2,Peixaria,Rodela de pescada sem cabeça,1.0,kg,,6.99,4.0,Peixaria,2.99
+2,Talho,Peito de frango ATP PD,1.371,kg,6.49,8.9,0.0,Talho,8.9
+2,Talho,Porco costeletas do lombo,0.529,kg,5.69,3.01,0.0,Talho,3.01
+2,Frutas e Vegetais,Espinafres 280g Vitac,1.0,un,,2.79,0.0,Legumes,2.79
+2,Frutas e Vegetais,Banana importada,0.805,kg,1.19,0.96,0.0,Fruta,0.96
+2,Congelados,Salmão sem pele PNova 400g,1.0,un,,12.69,3.8,Congelados,8.89
+2,Congelados,Miolo de camarão 300g,1.0,un,,6.24,1.45,Congelados,4.79
+2,Congelados,Olá Fizz limão 6x60ml,1.0,un,,4.99,0.0,Congelados,4.99
+2,Produtos Lácteos,Iogurte Yopro Big Pot,1.0,un,,3.89,0.8,Queijos e lacticínios,3.09
+2,Queijos,Queijo Nostra light 2x200g,1.0,un,,2.39,0.8,Queijos e lacticínios,1.59
+2,Queijos,Queijo cottage Arla Protein,1.0,un,,5.19,0.0,Queijos e lacticínios,5.19
+2,Produtos Pessoais,Guardanapos 3F PD 70 unidades,1.0,un,,1.59,0.0,Outros,1.59
+2,Produtos Pessoais,Pasta de dentes Colgate Max White 75g,1.0,un,,3.09,0.95,Outros,2.1399999999999997
+2,Bazar,Balança Hof IBDSH209,1.0,un,,19.99,4.0,Outros,15.989999999999998
