@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df=pd.read_csv("dataset/transactions.csv", sep=";",
-    decimal=",")
+df=pd.read_csv("dataset/compras_limpo.csv", sep=",",
+    decimal=".")
 
 
 # 2. Converter colunas numéricas
